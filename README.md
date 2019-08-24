@@ -8,3 +8,7 @@ Se o tempo estiver alto(acima de 15ms), execuar o comando # hostname e colar o r
 
 127.0.0.1	localhost CarlosSantos.local
 
+Executavel na pasta bin:
+
+java -jar bin/testeRespInet.jar
+
